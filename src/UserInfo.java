@@ -1,3 +1,4 @@
+package src;
 public class UserInfo {
     private String name;
     private int age;

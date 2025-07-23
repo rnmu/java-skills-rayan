@@ -1,3 +1,4 @@
+package src;
 public class Book {
     // Protected variables (so child classes can access them)
     protected String title;

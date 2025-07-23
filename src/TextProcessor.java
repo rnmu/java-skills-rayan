@@ -1,4 +1,4 @@
-
+package src;
 public class TextProcessor {
     // Count words in a sentence
     public static int countWords(String sentence) {

@@ -1,3 +1,4 @@
+package src;
 public class Library {
     // Main class to test everything
         public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package src;
 public class GradeManager {
 
     // Method to reverse student names in an array
