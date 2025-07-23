@@ -19,7 +19,10 @@ public class javaskills {
 
         //Test get and set
         System.out.println(user1.getAge());
-        
+
+        //
+
+
 
 
 
